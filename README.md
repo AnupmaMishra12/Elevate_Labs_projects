@@ -15,6 +15,7 @@ This repository contains all the practical tasks and mini-projects I completed a
 - [Task 1 – Responsive Webpage](#task-1--responsive-webpage)
 - [Task 2 – UI Components & Dynamic Content](#task-2--ui-components--dynamic-content)
 - [Task 4 – Advanced Layout & Effects](#task-4--advanced-layout--effects)
+- [ Task 6 – Contact Form with JavaScript Validation ](#task-6--contact-form-with-javascript-validation)
 - [Landing Page Project](#landing-page-project)
 - [Screenshots](#screenshots)
 - [What I Learned](#what-i-learned)
@@ -42,9 +43,25 @@ This repository contains all the practical tasks and mini-projects I completed a
 
 ---
 
-## Landing Page Project
-*Files:* (List all relevant files/folders here)  
-*Highlights:* Modern, mobile-friendly landing page, frontend frameworks
+## Task 6 - Contact Form with JavaScript
+*Files:* task6.html , task6.css , task6.js
+*Hightlights:* 
+📄 Created a responsive contact form with Name, Email, and Message fields
+
+🎨 Styled the form for clarity and accessibility using CSS
+
+⚙️ Implemented client-side validation using JavaScript
+
+🔍 Used regex to validate email format
+
+❌ Prevented form submission if inputs are invalid
+
+🛎️ Displayed dynamic error messages below each field
+
+✅ Showed success message on valid submission (no backend involved)
+
+🧪 Tested edge cases: empty fields, invalid email, special characters
+
 
 ---
 
@@ -65,9 +82,10 @@ Here are visual previews of each project/task:
 ![Task 4 Screenshot](<img width="884" height="1497" alt="image" src="https://github.com/user-attachments/assets/c01e8381-1f24-4c9f-a595-494f795ec3a1" />
 )
 
-*Landing Page Preview:*  
-![Landing Page Screenshot]()
+*Task 6 Preview*
+![Task 6 Screenshot](<img width="812" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/ba209614-4bb8-467f-89ff-0c2daf1f6058" />
 
+)
 ---
 
 ## What I Learned
