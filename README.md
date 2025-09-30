@@ -53,17 +53,20 @@ Here are visual previews of each project/task:
 *Just upload your screenshots in a folder called screenshots and update the image paths below.*
 
 *Task 1 Preview:*  
-![Task 1 Screenshot](http://127.0.0.1:5500/task1.html)
+![Task 1 Screenshot](<img width="1920" height="1080" alt="Screenshot (655)" src="https://github.com/user-attachments/assets/8fb32a18-43aa-4103-b78e-b1b8d59eb9b2" />
 )
 
+
 *Task 2 Preview:*  
-![Task 2 Screenshot](./screenshots/task2.png)
+![Task 2 Screenshot](<img width="1920" height="1080" alt="Screenshot (656)" src="https://github.com/user-attachments/assets/6b74a166-ec66-49ad-9254-1affffc78abc" />
+)
 
 *Task 4 Preview:*  
-![Task 4 Screenshot](./screenshots/task4.png)
+![Task 4 Screenshot](<img width="884" height="1497" alt="image" src="https://github.com/user-attachments/assets/c01e8381-1f24-4c9f-a595-494f795ec3a1" />
+)
 
 *Landing Page Preview:*  
-![Landing Page Screenshot](./screenshots/landingpage.png)
+![Landing Page Screenshot]()
 
 ---
 
